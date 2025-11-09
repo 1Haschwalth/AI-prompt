@@ -1,4 +1,5 @@
 # AI精准操作手册：从Prompt工程到认知导航<br>AI Precision Operations Manual: From Prompt Engineering to Cognitive Navigation
+👇在线阅读全书
 ## [📖目录](https://github.com/1Haschwalth/prompt-engineering/tree/MAIN/%E4%B9%A6)
 - [0. 序篇](https://github.com/1Haschwalth/prompt-engineering/tree/MAIN/%E4%B9%A6/0.%20%E5%BA%8F%E7%AF%87)
   - [笔者按：写给每一个即将成为超级个体的你](https://github.com/1Haschwalth/prompt-engineering/blob/MAIN/%E4%B9%A6/0.%20%E5%BA%8F%E7%AF%87/0.%20%E7%AC%94%E8%80%85%E6%8C%89.md)
@@ -30,5 +31,5 @@
   - [Prompt工程的熵减经济学与涌现现象研究](https://github.com/1Haschwalth/prompt-engineering/blob/MAIN/%E4%B9%A6/%E7%95%AA%E5%A4%96%E7%AF%87/Prompt%E5%B7%A5%E7%A8%8B%E7%9A%84%E7%86%B5%E5%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%B8%8E%E6%B6%8C%E7%8E%B0%E7%8E%B0%E8%B1%A1%E7%A0%94%E7%A9%B6.md)
   - [技术架构的范式跃迁：当Prompt遇到神经形态计算与量子计算](https://github.com/1Haschwalth/prompt-engineering/blob/MAIN/%E4%B9%A6/%E7%95%AA%E5%A4%96%E7%AF%87/%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84%E7%9A%84%E8%8C%83%E5%BC%8F%E8%B7%83%E8%BF%81%E2%80%94%E2%80%94%E5%BD%93Prompt%E9%81%87%E5%88%B0%E7%A5%9E%E7%BB%8F%E5%BD%A2%E6%80%81%E8%AE%A1%E7%AE%97%E4%B8%8E%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97.md)
   - [生态智能：多智能体协作与人-机-环境​​三元交互设计](https://github.com/1Haschwalth/prompt-engineering/blob/MAIN/%E4%B9%A6/%E7%95%AA%E5%A4%96%E7%AF%87/%E7%94%9F%E6%80%81%E6%99%BA%E8%83%BD%EF%BC%9A%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%8D%8F%E4%BD%9C%E4%B8%8E%E4%BA%BA-%E6%9C%BA-%E7%8E%AF%E5%A2%83%E2%80%8B%E2%80%8B%E4%B8%89%E5%85%83%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1.md)
-## [🎯跟进](https://github.com/1Haschwalth/prompt-engineering/issues)
-## [💬反馈](https://github.com/1Haschwalth/prompt-engineering/discussions)
+## [🎯跟进日志](https://github.com/1Haschwalth/prompt-engineering/issues)
+## [💬评论反馈](https://github.com/1Haschwalth/prompt-engineering/discussions)
